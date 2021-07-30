@@ -57,7 +57,9 @@ weather_owm {
 }
 ```
 
-## Optional Requirements
+## Optional Stuff
+
+Here are some obvious things you might want to change.
 
 ### Cryptocurrency
 
@@ -68,7 +70,6 @@ In i3status-top, replace `<YOUR API KEY>` with your coinmarketcap API key:
 ```
 coin_market = "<YOUR API KEY>"
 ```
-
 
 Add your favorite cryptos to the `markets` / `thresholds`.
 
@@ -115,6 +116,8 @@ diskdata sda {
 ### Conky
 
 Conky is the application which displays system information on your desktop.
+
+Copy the `conky` dir to `~/.config/conky/custom`.
 
 
 #### CPU bars
