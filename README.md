@@ -1,6 +1,6 @@
 # Riced i3
 
-![](screenshots/desktop.png?raw=true)
+![](screenshots/screenshot1.png?raw=true)
 
 ## Features
 
