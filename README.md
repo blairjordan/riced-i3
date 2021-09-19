@@ -27,7 +27,7 @@ Rofi is `drun` on steroids.
 Install it here:
 https://github.com/davatorium/rofi/blob/next/INSTALL.md#install-distribution
 
-I use the rofi theme: `glue_pro_blue.rasi`
+I use the rofi theme: `glue_pro_blue.rasi` (Set using `rofi-theme-selector`)
 
 ### py3status
 
